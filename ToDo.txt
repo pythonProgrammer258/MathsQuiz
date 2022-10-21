@@ -1,0 +1,23 @@
+Rozbudowanie bazy danych o dodatkowe działania (1)
+
+Optymalizacja gry (przyszłość)
+Języki (do 1.0)
+Osiągniecia (w dalekiej przyszłości lub nigdy)
+GUI (w dalekiej przyszłości lub nigdy)
+Ograniczenie czasowe (b. łatwy - nieograniczone; łatwy - 60 sek.; średni - 30 sek.; trudny - 30 sek.; b. trudny - 60 sek.; ekstrymalny - 30 sek. ) (przyszość)
+Ekstrymalny poziom (przyszłość)
+Main.py - code.py; run.py (przyszłość)
+
+
+
+
+
+
+Zrobione:
+1) Kody (np game.addScore, game.addMultiplier, game.superSecretCommands) +
+2) Tajny level (Komenda: SuperSecretLevel) +
+3) Zmiana punktów (b.ł - 1/0; ł. - 5/10; ś. - 10/20; t. - 50/100; b.t. - 100/vb; e. - w/l) +
+4) Koła ratunkowe (rezygnacja - 1; zmiana pytania - 1) (1) +
+5) Ograniczenie pytań (b.ł. - nieograniczony; ł. - 50; ś. - 20; t. - 10; b.t. - 5; e. - 1) +
+6) Rzadki level +
+7) Zmiana leveli (łatwy - bardzo łatwy; średni - łatwy; trudny (bez 8! i 4!) - średni; trudny (z !); bardzo trudny (np 2x = 3+0.25-3+5-0.25); ekstrymalny (bardzo trudny z 10 sek. czas na odpowiedź)) (2) (+/-)

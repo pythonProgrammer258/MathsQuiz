@@ -60,4 +60,9 @@
         - Testing personal path
         - Testing linux compatibility
     pre-realase1 (22 October 2022)
+    v0.5 (22 October 2022)
+        - Created launcher for Windows and Linux
+        - 3 modes - normal, extreme and easy
+        - Customized logo
+        - Bug fixed
     

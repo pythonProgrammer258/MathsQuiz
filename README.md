@@ -13,3 +13,4 @@ Rules<br>
 <li>If the answer to the first question is wrong, you will fail</li>
 <li>The helps arent available in extreme difficulty and extreme mode</li>
 </ol>
+

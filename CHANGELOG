@@ -1,0 +1,123 @@
+0.1 - First version (28 August 2022)
+    - 3 levels: easy, medium and hard
+    - Hard level is one per game
+    - Collect 1000 points to win
+    - Created database
+    - 400 lines of code
+0.2 - Help update
+    v0.2 (29 August 2022)
+        - Add helps
+        - Lose after bad answer in first round
+        - Bug fixed
+        - Rare level
+    v0.2.1 (29 August 2022)
+        - Limit for hard difficulty is 5
+        - Bug fixed
+0.3 - Difficulty update
+    test1 (02 September 2022)
+        - Testing new difficulty levels
+        - Changed limits
+        - Changed points
+    v0.3 (02 September 2022)
+        - Changed difficulty levels - easy to very easy; normal to easy; hard to medium
+        - Removed test very hard level
+        - Added new difficulty level - hard
+        - Added limits: easy (old normal) - 50; medium - 20; hard - 10
+        - Testing extreme level
+0.4 - Extreme update
+    test1 (17 September 2022)
+        - Testing users system
+        - Failed
+    test2 (18 September 2022)
+        - Created database for extreme questions
+    test3 (18 September 2022)
+        - Testing new ultra rare level (unlock change < 0.5% per game)
+        - Passed
+        - Deleted database for extreme questions
+    test4 (18 September 2022)
+        - Testing user system
+        - Failed
+    test5 (21 October 2022)
+        - Temporarily deleted ultra rare secret level
+        - Testing extreme level (using database for hard)
+        - Passed
+    test6 (21 October 2022)
+        - Testing database for extreme level
+        - Passed
+        - Fixing bugs
+        - Added new logo
+    v0.4 (21 October 2022)
+        - Added extreme level
+        - Added new logo
+        - Bug fixed
+0.5 - Modes update
+    test1 (22 October 2022)
+        - Created launcher for Windows
+        - No linux compatiblity
+        - 2 modes testing - normal and extreme
+        - Passed
+    test2 (22 October 2022)
+        - Testing personal path
+        - Testing linux compatibility
+        - Testing easy mode
+    pre-realase1 (22 October 2022)
+    v0.5 (22 October 2022)
+        - Created launcher for Windows and Linux
+        - 3 modes - normal, extreme and easy
+        - Customized logo
+        - Bug fixed
+0.6 - Data update
+    test1 (29 October 2022)
+        - Updated database for very easy, easy and medium
+    test2 (29 October 2022)
+        - Added new questions
+    test3 (30 October 2022)
+        - Testing tutorial mode
+    v0.6 (30 October 2022)
+        - Updated database
+        - Added tutorial
+        - 1862 lines of code
+0.7 - Autumn update
+    test1 (1 November 2022)
+        - Changed colors
+    test2 (1 November 2022)
+        - Added splash
+        - Bug fixed
+        - Changed points limit in tutorial to 250
+    test3 (1 November 2022)
+        - Added season mode
+        - Season is autumn
+    v0.7 (4 November 2022)
+        - Changed colors
+        - Added splash
+        - Bug fixed
+        - Changed points limit in tutorial to 250
+        - Added season mode (4Nov-1Dec)
+        - 2122 lines of code
+0.8 - Levels update
+    test1 (22 November 2022)
+        - Testing impossible level on extreme mode
+        - Test passed
+        - Changed colors in launcher
+    test2 (22 November 2022)
+        - Testing easy and very easy levels on easy mode
+        - Test passed
+    v0.8 (22 November 2022)
+        - Added levels on easy and extreme mode
+        - Changed colors in launcher
+        - 2168 lines of code
+    v0.8.1 (3 December 2022)
+        - End of autumn season
+        - 1972 lines of code
+Secret updates
+    s1 (3 December 2022)
+    s2 (3 December 2022)
+    s3 (3 December 2022)
+
+    v0.9pre-release1 (3 December 2022)
+
+    v0.9 (3 December 2022)
+        - Added Experimental mode
+        - Added premium mode
+        - Optimized code
+        - 1902 lines of code
